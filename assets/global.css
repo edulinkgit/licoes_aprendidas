@@ -1,12 +1,15 @@
 h1 {
     color: blue;
-    display: flex;
-    justify-content: center;
 }
 
 img {
     height: 200px;
     border-radius: 15px;
-    margin-left: 350px;
 }
 
+div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
