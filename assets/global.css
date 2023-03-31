@@ -13,3 +13,16 @@ div {
     flex-direction: column;
     
 }
+
+h2 {
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+ul {
+    margin-top: 0;
+}
+
+ol {
+    margin-top: 0;
+}
